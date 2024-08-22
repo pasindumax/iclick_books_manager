@@ -1,20 +1,21 @@
-{  "commonRetry": "Retry",
-"commonYes": "Yes",
-"commonNo": "No",
-"commonCancel": "Cancel",
-"commonSave": "Save",
-"commonSubmit": "Submit",
-"commonNext": "Next",
-"commonFrom": "from",
-"commonDone": "Done",
-"commonClose": "Close",
-"homescreenSearchForABook": "Search for a Book"
-,"noFavoriteBooksYet": "No favorite books yet"
-,"favoriteBooks": "Favorite Books"
-,"bookSearch": "Book Search"
-,"failedToFetchBooks": "Failed to fetch books"
-,"pleaseEnterASearchQuery": "Please enter a search query"
-,"bookNotFound": "Book not found"
-,"bookDetails": "Book Details"
-
-                }
+{
+    "commonRetry": "Retry",
+    "commonYes": "Yes",
+    "commonNo": "No",
+    "commonCancel": "Cancel",
+    "commonSave": "Save",
+    "commonSubmit": "Submit",
+    "commonNext": "Next",
+    "commonFrom": "from",
+    "commonDone": "Done",
+    "commonClose": "Close",
+    "homescreenSearchForABook": "Search for a Book",
+    "noFavoriteBooksYet": "No favorite books yet",
+    "favoriteBooks": "Favorite Books",
+    "bookSearch": "Book Search",
+    "failedToFetchBooks": "Failed to fetch books",
+    "pleaseEnterASearchQuery": "Please enter a search query",
+    "bookNotFound": "Book not found",
+    "bookDetails": "Book Details",
+    "bookDetailstest": "tesr Details"
+}
